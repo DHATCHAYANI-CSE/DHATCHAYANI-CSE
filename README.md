@@ -34,7 +34,6 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dhatchayani-arun-a56b2a264"><img src="https://img.shields.io/badge/linkedin-DhatchayniArun-blue"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-your-email@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-@yourusername-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 
 </p>
