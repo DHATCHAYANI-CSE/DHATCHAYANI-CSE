@@ -9,7 +9,6 @@
 - 🎓 &nbsp; I'm currently studying Computer Science and Engineering at Sri Eshwar College of Engineering.  
 - 🌱 &nbsp; Learning more about Frontend, Backend, Data Structures, and Algorithms.  
 - ⚡️ &nbsp; Fun fact: I am fond of quotes and I like playing chess.
-  --- 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -20,7 +19,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -30,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
----
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
